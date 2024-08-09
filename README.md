@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My self Mateen Khan</h1>
-<h3 align="center">Empowered by Knowledge, Driven by Data: AI enthusiast and M.Sc. Student seeking the next challenge!</h3>
+<h3 align="center">Empowered by Knowledge, Driven by Data: AI enthusiast and Professional Data Scientist!</h3>
 
 - 🌱 I’m in the phase of acquiring new skills 👉 **Deep Learning, Reinforcement Learning**
 
